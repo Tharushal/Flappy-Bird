@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>birdy.png</file>
+        <file>corpTube.png</file>
+        <file>TeteTubeH.png</file>
+        <file>bg.jpg</file>
+        <file>corpTubeB.png</file>
+        <file>TeteTubeB.png</file>
+    </qresource>
+</RCC>
